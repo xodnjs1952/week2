@@ -1,6 +1,7 @@
 #include<stdio.h>
-#include<ostream>
+#include<iostream>
 
 void main() {
-	printf("pracrice");
+	printf("practice");
+	std::cout << "practice" << std::endl;
 }
